@@ -1,6 +1,3 @@
-source 'http://rubygems.org'
-gem 'rspec'
-gem 'json'
-gem 'rest-client'
-gem 'debugger'
-gem 'activesupport', '3.2.8'
+source 'https://rubygems.org'
+
+gemspec
